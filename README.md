@@ -111,3 +111,4 @@ and recorded, and can be reviewed after the exam has been completed.
 
 
 &copy;Tips for the Certified Kubernetes Administrator (CKA) Exam ​Version 1.5​ Updated January 15, 2018
+
