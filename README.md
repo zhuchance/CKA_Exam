@@ -1,4 +1,4 @@
-## 有很多人问我关于这个考试的题目，鉴于此我把微信联系方式放上去，有需要的朋友加我qq具体沟通： 1226600028
+## 有很多人问我关于这个考试的题目，鉴于此我把微信联系方式放上去，有需要的朋友加我qq具体沟通： 1226100028
 ## Tips for the Certified Kubernetes Administrator (CKA) Exam  
 
 ### Exam Details
